@@ -177,4 +177,5 @@ cython_debug/
 *.pt
 *.h5
 outputs/
-
+data/
+checkpoint*

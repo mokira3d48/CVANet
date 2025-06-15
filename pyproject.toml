@@ -47,3 +47,4 @@ where = ["src"]
 vae-train = "cvn.VAE.train:main"
 yolo-detect-train = "cvn.YOLO.detect.train:main"
 alexnet-class-train = "cvn.alexnet.classification.train:main"
+resnet-class-train = "cvn.resnet.classification.train:main"
